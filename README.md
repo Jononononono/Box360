@@ -18,7 +18,7 @@ It will use ubuntu as the main operating system, wine/box 64 to emulate games an
 - USB Hub - An old one I had lying around
 - Wireless Charging Coil - Universal Qi Wireless Charging Transmitter Adafruit
 ### Parts which I will get in the future
-- USB Disk drive
+- USB Disk drive (Amazon Amicool Star Colour brand??? https://www.amazon.com/External-Amicool-Portable-Rewriter-Duplicator/dp/B07V67STBD?crid=3MJR9FY0UXLYF&dib=eyJ2IjoiMSJ9.o6gDgWJQG8dbZh9FR-JCCcaeJdX98Ma-hVA01ahYH2_E-POQsNvgKak47OUaZi1Ftu-eXP-INOrgM3V7zn_JQB-3rs9qgyYEFY787WSmlW022IwZ6xLtN0E7w81VF1ZjdYG7JNZdmQMebsca8WyxeqmDADntItAP2Fj4uAX3BFcXnh8prCB3LlXjpNE45X7uwABVdqIBVh3uJoMW0Kc4WDDOkagJtgHjek2GInOkGog.fOVzvosjgrDom4ma4Vlg5RvTs082xsmpTb9XQNvCwPM&dib_tag=se&keywords=usb%2Bdisc%2Bburner&qid=1772936038&sprefix=usb%2Bdisc%2Bbur%2Caps%2C341&sr=8-4&th=1)
 
 ### Cad work
 I havent began the cad work yet, images will be released as soon as possible
