@@ -2,7 +2,7 @@
 ## Emulation Media Powerhouse
 ### What is it?
 The Box360 is an Emulation media powerhouse powered by a RPI 5 which can play all consoles up to a Playstation 2, and some steam games. My goal is to make it look as elegant as possible.
-It will contain a screen which which can report system stats like CPU, Ram, GPU usage, and other statistics and a diskdrive to play games and dump games directly, and an IR sensor to control it using a remote.
+It will contain a screen which which can report system stats like CPU, Ram, GPU usage, and other statistics and a diskdrive to play games and dump games directly, and an IR sensor to control it using a remote, and a wireless charging coil to charge supported controlles and other devices related to the console.
 It will use ubuntu as the main operating system, wine/box 64 to emulate games and kodi as a frontend (with an xbox360 esc theme).
 
 ### Parts (I have these already):
@@ -15,6 +15,8 @@ It will use ubuntu as the main operating system, wine/box 64 to emulate games an
 - IR Sensor
 - Some old TV Remote
 - Wires (Jumper and non jumper)
+- USB Hub - An old one I had lying around
+- Wireless Charging Coil - Universal Qi Wireless Charging Transmitter Adafruit
 ### Parts which I will get in the future
 - USB Disk drive
 
