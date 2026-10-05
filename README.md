@@ -3,7 +3,7 @@
 ### What is it?
 The Box360 is an Emulation media powerhouse powered by a RPI 5 which can play all consoles up to a Playstation 2, and some steam games. My goal is to make it look as elegant as possible.
 It will contain a screen which which can report system stats like CPU, Ram, GPU usage, and other statistics and a diskdrive to play games and dump games directly, and an IR sensor to control it using a remote, and a wireless charging coil to charge supported controlles and other devices related to the console.
-It will use ubuntu as the main operating system, wine/box 64 to emulate games and kodi as a frontend (with an xbox360 esc theme).
+It will use ubuntu as the main operating system, wine/box 64 to emulate games, kodi for the media player as well as a simple pygame front end.
 
 ### Parts (I have these already):
 - Pi 5 8gb
